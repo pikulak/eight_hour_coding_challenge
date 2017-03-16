@@ -14,15 +14,15 @@
   
 # Screenshots
  * https://github.com/pikulak/eight_hour_coding_challenge/tree/master/screenshots
+ 
+# Live
+ * http://srv01.mikr.us:20210/
  *      "host": "host",
         "port": "5423",
         "database": "testdb",
         "username": "username",
         "password": "password"
  
-# Live
- * http://srv01.mikr.us:20210/
-
 # What I learned through these eight hours?
   * AJAX requests via JS
   * componentWillMount(), componentWillUnmount() from ReactJS
@@ -33,7 +33,12 @@
   * custom theme in MaterialUI
 
 # Work done after challenge
-  * not yet
+  * database's connection logic
+  * database's API endpoint
   
 # What I learned after challenge?
-  * not yet
+  * sqlalchemy sessions
+  * flask Class Based MethodViews
+  
+# Will I continue this project?
+  - Ofcourse, take a look here: https://github.com/pikulak/pyYourAdmin
