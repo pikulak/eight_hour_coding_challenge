@@ -15,13 +15,6 @@
 # Screenshots
  * https://github.com/pikulak/eight_hour_coding_challenge/tree/master/screenshots
  
-# Live
- * http://srv01.mikr.us:20210/
- *      "host": "host",
-        "port": "5423",
-        "database": "testdb",
-        "username": "username",
-        "password": "password"
  
 # What I learned through these eight hours?
   * AJAX requests via JS
